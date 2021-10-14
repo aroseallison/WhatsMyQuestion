@@ -1,7 +1,9 @@
 # WhatsMyQuestion
 
 Project Description 
+
 Our project is topic modeling based on a stackoverflow dataset. The model will be trained on stackoverflow questions, and be used to predict the topics on new questions written on a web app.
+
 Data Source
 
     https://www.kaggle.com/stackoverflow/stacksample
